@@ -1,0 +1,12 @@
+1. Analyzing the performance of dairy farms based on location, land area, and
+cow population.
+2. Understanding the sales and distribution patterns of different dairy products
+across various brands and regions.
+3. Studying the impact of storage conditions and shelf life on the quality and
+availability of dairy products.
+4. Analyzing customer preferences and buying behaviour based on location and
+sales channels.
+
+5. Analyzing average expiry days of each product.
+6. Analyzing products with max and min shelf life.
+
